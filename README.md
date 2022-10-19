@@ -1,4 +1,4 @@
-<h1>Urbanistaion-Risk Exposure nexus</h1>
+<h1>Urbanisation-Risk Exposure nexus</h1>
 
 This repository includes the code for the analysis implemented in the Urbanistaion-Risk Exposure nexus, as part of the doctoral dissertation of Alexandre Pereira Santos at the University of Hamburg.
 
